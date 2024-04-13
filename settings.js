@@ -19,19 +19,19 @@ global.socialm = "GitHub: DGXeon" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
-global.botname = 'Cheems Bot MD V11' //ur bot name
-global.ownernumber = '916909137213' //ur owner number
-global.ownername = '🦄드림 가이 Xeon' //ur owner name
-global.websitex = "https://youtu.be/mu5m6aB6P5k"
-global.wagc = "https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20"
-global.themeemoji = '🪀'
-global.wm = "Xeon Bot Inc."
+global.botname = '♥⃢💃 ✪𝙳𝙰𝚁𝙺 𝙷𝙸𝚃𝙻𝙴𝚁 𝙼𝙳✪ⱽ11 💃⃢♥' //ur bot name
+global.ownernumber = '94755570734' //ur owner number
+global.ownername = '☠☠DARK SHANU☠☠' //ur owner name
+global.websitex = "https://youtu.be/"
+global.wagc = "https://chat.whatsapp.com/Jvy6MgB0bVJEHM3zgd8Lr4"
+global.themeemoji = '💃'
+global.wm = "DARK HITLER Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD11' //script link
-global.packname = "Sticker By"
-global.author = "🦄드림 가이 Xeon\n\n+916909137213"
-global.creator = "916909137213@s.whatsapp.net"
+global.packname = "Sticker By DARK HITLER MD"
+global.author = "🦄DARK SHANU\n\n+94755570734"
+global.creator = "94755570734@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["916909137213"] // Premium User
+global.premium = ["94755570734"] // Premium User
 global.hituet = 0
 
 //bot sett
